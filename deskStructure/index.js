@@ -26,7 +26,7 @@ const hiddenTypes = [
 	"siteSettings"
 ];
 
-const webriqsandbox = S.list()
+const studio = S.list()
 	.title("Content")
 	.items([
 		siteSettings,
